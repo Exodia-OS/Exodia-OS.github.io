@@ -226,6 +226,16 @@
   margin: 0 auto 0 0;
 }
 
+
+.u-section-1 .u-image-contributors {
+  width: 186px;
+  height: 186px;
+  background-image: url("images/contributor.png");
+  background-position: 50% 50%;
+  margin: 0 auto 0 0;
+}
+
+
 .u-section-1 .u-text-10 {
   font-size: 1.25rem;
   font-weight: 700;
