@@ -42,10 +42,10 @@
   padding: 30px;
 }
 
-.u-section-1 .u-image-1 {
+.u-section-1 .u-image-00xWolf {
   width: 186px;
   height: 186px;
-  background-image: url("images/ozoz.png");
+  background-image: url("images/00xWolf.jpg");
   background-position: 50% 50%;
   margin: 0 auto 0 0;
 }
@@ -98,7 +98,7 @@
   padding: 30px;
 }
 
-.u-section-1 .u-image-2 {
+.u-section-1 .u-image-Abdallah {
   width: 186px;
   height: 186px;
   background-image: url("images/Abdallah.png");
@@ -154,7 +154,7 @@
   padding: 30px;
 }
 
-.u-section-1 .u-image-3 {
+.u-section-1 .u-image-abdo {
   width: 186px;
   height: 186px;
   background-image: url("images/abdo.png");
@@ -210,7 +210,7 @@
   padding: 30px;
 }
 
-.u-section-1 .u-image-4 {
+.u-section-1 .u-image-omar {
   width: 186px;
   height: 186px;
   background-image: url("images/omar.png");
@@ -218,7 +218,7 @@
   margin: 0 auto 0 0;
 }
 
-.u-section-1 .u-image-5 {
+.u-section-1 .u-image-Hashem {
   width: 186px;
   height: 186px;
   background-image: url("images/Hashem.png");
@@ -227,10 +227,20 @@
 }
 
 
+
 .u-section-1 .u-image-contributors {
   width: 186px;
   height: 186px;
   background-image: url("images/contributor.png");
+  background-position: 50% 50%;
+  margin: 0 auto 0 0;
+}
+
+
+.u-section-1 .u-image-adnan {
+  width: 186px;
+  height: 186px;
+  background-image: url("images/adnan.png");
   background-position: 50% 50%;
   margin: 0 auto 0 0;
 }
